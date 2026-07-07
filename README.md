@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+  <a href="https://www.linkedin.com/in/shifkan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:shifkanm04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shifkan04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -52,12 +52,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shifkan04&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shifkan04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shifkan04&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -65,7 +69,7 @@
 ### 🧰 Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm,composer,xd,idea" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm,git,github" />
 </p>
 
 ---
@@ -73,13 +77,21 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shifkan04&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Shifkan04&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=Shifkan04&label=Profile%20Views&color=2E9EF7&style=flat" alt="visitor badge" />
 </p>
 
 <p align="center"><i>⭐ Thanks for visiting my profile — let's build something great together!</i></p>
