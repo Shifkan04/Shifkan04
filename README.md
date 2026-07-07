@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shifkan</h1>
-<h3 align="center">Full Stack Developer | Instructor @ VITS Campus & GearHub Online School</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=180&section=header&text=Hi%20There,%20I'm%20Shifkan%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20Dev%20Instructor&descAlignY=58&descSize=18" />
+
+<h3 align="center">Turning ideas into real, working web apps — and teaching others to do the same.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Laravel+%2B+Next.js;Frontend+Web+Development+Instructor;Building+Real-World+Web+Apps;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
@@ -15,6 +16,15 @@
   <a href="https://github.com/Shifkan04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://YOUR-RESUME-LINK.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://wa.me/94YOUR-NUMBER" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -36,9 +46,6 @@
   <a href="https://discord.com/users/YOUR-DISCORD-ID" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://dev.to/YOUR-DEVTO" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
@@ -53,35 +60,117 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shifkan04&label=Profile%20Views&color=2E9EF7&style=flat" alt="visitor badge" />
+</p>
+
 ---
 
 ### 🚀 About Me
 
-- 🎓 Full Stack Developer & Instructor teaching **Frontend Web Development** at **VITS Campus** and **GearHub Online School**
+```yaml
+Name:        Shifkan
+Role:        Full Stack Developer & Web Dev Instructor
+Location:    Puttalam, Sri Lanka
+Teaching at: VITS Campus & GearHub Online School
+Focus:       Laravel, Next.js, PHP, MySQL — building & teaching real-world apps
+```
+
+- 🎓 Instructor teaching **Frontend Web Development** — turning beginners into confident developers
 - 💻 Production experience building platforms like **Khetkart.com** and **FutureMart**
-- 🛠️ I work with **Laravel, Next.js, Core PHP, CodeIgniter, MySQL, AJAX**
-- 📚 Passionate about breaking down complex web dev concepts for students (HTML, CSS, Flexbox, Bootstrap, DOM, Responsive Design)
-- 🌱 Currently exploring modern full stack workflows and sharing them with the next generation of developers
-- ⚡ Fun fact: I build my teaching materials and even PowerPoint decks programmatically!
+- 📚 I design self-sufficient teaching handbooks & slide decks for every class I run
+- 🌱 Currently exploring modern full stack workflows and sharing them with my students
+- ⚡ Fun fact: I build my teaching materials — even PowerPoint decks — programmatically with code!
+
+---
+
+### 🕒 My Journey
+
+```text
+2022  ─●  Started learning web development
+2023  ─●  Built first production apps — Khetkart.com, FutureMart
+2024  ─●  Became a Full Stack Web Development Instructor
+2025  ─●  Built full-scale apps: ERP modules, PWA wedding platform
+2026  ─●  Teaching at VITS Campus & GearHub, growing as a Full Stack Dev
+```
 
 ---
 
 ### 🧑‍💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nextjs,react,mysql,git,github,bootstrap,tailwind,nodejs,vscode" />
-</p>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,codeigniter" />
+
+**Database & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,postman,npm" />
 
 ---
 
-### 📂 Current Projects
+### 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🌾 Khetkart.com**
+E-commerce platform built and deployed to production.
+`Laravel` `MySQL` `AJAX`
+
+</td>
+<td width="50%">
+
+**🛒 FutureMart**
+Multi-module retail & ERP platform.
+`PHP` `MySQL` `Core Systems`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💍 Wedding Invite App**
+PHP/MySQL PWA with personalized guest links, themes & scratch-reveal interactions.
+`PHP` `MySQL` `PWA`
+
+</td>
+<td width="50%">
+
+**📖 FWD Instructor Handbooks**
+Self-sufficient teaching scripts & slide decks for the Frontend Web Dev course.
+`Node.js` `pptxgenjs`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📁 Show more projects</summary>
+<br>
 
 | Project | Description |
 |---|---|
-| 🌾 **Khetkart.com** | E-commerce platform (production) |
-| 🛒 **FutureMart** | Multi-module retail/ERP platform |
-| 📖 **FWD Course Material** | Instructor handbooks & slide decks for Frontend Web Dev |
-| 💍 **Wedding Invite App** | PHP/MySQL PWA with personalized guest links & themes |
+| 🧾 Multi-module ERP | Inventory, sales & reporting modules |
+| 🎓 HND Coursework Projects | IoT, NLP & research-based assignments |
+
+</details>
+
+---
+
+### 🌱 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=typescript,docker,aws" />
+
+---
+
+### 💬 Ask Me About
+
+`Laravel & PHP development` · `Next.js & React` `Frontend fundamentals (HTML/CSS/Flexbox)` · `Teaching & mentoring beginners` · `Building PWAs`
 
 ---
 
@@ -102,14 +191,6 @@
 
 ---
 
-### 🧰 Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm,git,github" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -126,8 +207,25 @@
 
 ---
 
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shifkan04&label=Profile%20Views&color=2E9EF7&style=flat" alt="visitor badge" />
+  <img src="https://raw.githubusercontent.com/Shifkan04/Shifkan04/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<details>
+<summary>⚙️ How to enable the snake animation</summary>
+<br>
+
+1. In your `Shifkan04/Shifkan04` repo, go to **Actions → New workflow → set up a workflow yourself**
+2. Paste the workflow from [Platane/snk](https://github.com/Platane/snk) (official snake generator action)
+3. Commit it — GitHub will auto-generate the snake SVG on a schedule
+4. The image above will start rendering automatically once the action runs once
+
+</details>
+
+---
+
 <p align="center"><i>⭐ Thanks for visiting my profile — let's build something great together!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E9EF7&height=100&section=footer" />
