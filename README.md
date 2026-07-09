@@ -177,8 +177,8 @@ Self-sufficient teaching scripts & slide decks for the Frontend Web Dev course.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shifkan04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shifkan04&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-two-xi-96.vercel.app/api?username=Shifkan04&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-two-xi-96.vercel.app/api/top-langs/?username=Shifkan04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -186,7 +186,7 @@ Self-sufficient teaching scripts & slide decks for the Frontend Web Dev course.
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shifkan04&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy-sable-eta.vercel.app/?username=Shifkan04&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -213,7 +213,7 @@ Self-sufficient teaching scripts & slide decks for the Frontend Web Dev course.
   <img src="https://raw.githubusercontent.com/Shifkan04/Shifkan04/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- <details>
+<details>
 <summary>⚙️ How to enable the snake animation</summary>
 <br>
 
@@ -222,7 +222,7 @@ Self-sufficient teaching scripts & slide decks for the Frontend Web Dev course.
 3. Commit it — GitHub will auto-generate the snake SVG on a schedule
 4. The image above will start rendering automatically once the action runs once
 
-</details> -->
+</details>
 
 ---
 
