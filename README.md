@@ -177,8 +177,8 @@ Self-sufficient teaching scripts & slide decks for the Frontend Web Dev course.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-two-xi-96.vercel.app/api?username=Shifkan04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-two-xi-96.vercel.app/api/top-langs/?username=Shifkan04&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-two-xi-96.vercel.app/api?username=Shifkan04&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" />
+  <img height="165" src="https://github-readme-stats-two-xi-96.vercel.app/api/top-langs/?username=Shifkan04&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" />
 </p>
 
 ---
