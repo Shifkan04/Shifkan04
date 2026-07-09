@@ -213,7 +213,7 @@ Self-sufficient teaching scripts & slide decks for the Frontend Web Dev course.
   <img src="https://raw.githubusercontent.com/Shifkan04/Shifkan04/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<details>
+<!-- <details>
 <summary>⚙️ How to enable the snake animation</summary>
 <br>
 
@@ -222,7 +222,7 @@ Self-sufficient teaching scripts & slide decks for the Frontend Web Dev course.
 3. Commit it — GitHub will auto-generate the snake SVG on a schedule
 4. The image above will start rendering automatically once the action runs once
 
-</details>
+</details> -->
 
 ---
 
