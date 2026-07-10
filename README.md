@@ -19,7 +19,7 @@
   <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://YOUR-RESUME-LINK.pdf" target="_blank">
+  <a href="https://shifkan04.github.io/My-CV-/" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
 </p>
