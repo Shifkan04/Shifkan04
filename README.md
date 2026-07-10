@@ -55,7 +55,7 @@
   <a href="https://stackoverflow.com/users/YOUR-SO-ID" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
+  <a href="https://leetcode.com/u/Shifkan/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
