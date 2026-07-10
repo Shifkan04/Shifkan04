@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wa.me/94YOUR-NUMBER" target="_blank">
+  <a href="https://wa.me/94755638086" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/gamer_zeras_05/" target="_blank">
