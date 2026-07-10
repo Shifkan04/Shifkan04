@@ -72,7 +72,7 @@
 Name:        Shifkan
 Role:        Full Stack Developer & Web Dev Instructor
 Location:    Puttalam, Sri Lanka
-Teaching at: VITS Campus & GearHub Online School
+Developer at: VITS Campus & GearHub Online School
 Focus:       Laravel, Next.js, PHP, MySQL — building & teaching real-world apps
 ```
 
