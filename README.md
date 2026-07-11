@@ -43,7 +43,7 @@
   <a href="https://t.me/YOUR-TELEGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/shifkan_zeras" target="_blank">
+  <a href="https://discord.com/users/1407355834488324208" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://dev.to/YOUR-DEVTO" target="_blank">
