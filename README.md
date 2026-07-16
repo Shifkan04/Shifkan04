@@ -40,7 +40,7 @@
   <a href="https://www.youtube.com/@Shifkan_Zeras" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://t.me/94755638086" target="_blank">
+  <a href="https://t.me/+94 75 563 8086" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1407355834488324208" target="_blank">
