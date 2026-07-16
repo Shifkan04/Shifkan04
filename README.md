@@ -46,7 +46,7 @@
   <a href="https://discord.com/users/1407355834488324208" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://dev.to/YOUR-DEVTO" target="_blank">
+  <a href="https://dev.to/shifkan" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
   <a href="https://medium.com/@YOUR-MEDIUM" target="_blank">
