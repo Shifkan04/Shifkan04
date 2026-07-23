@@ -72,7 +72,7 @@
 Name:        Shifkan
 Role:        Full Stack Developer & Web Dev Instructor
 Location:    Puttalam, Sri Lanka
-Developer at: VITS Campus & GearHub Online School
+Developer at: Gold Finchs Travels & GearHub Online School
 Focus:       Laravel, Next.js, PHP, MySQL — building & teaching real-world apps
 ```
 
@@ -91,7 +91,7 @@ Focus:       Laravel, Next.js, PHP, MySQL — building & teaching real-world app
 2023  ─●  Built first production apps — Khetkart.com, FutureMart
 2024  ─●  Became a Full Stack Web Development Instructor
 2025  ─●  Built full-scale apps: ERP modules, PWA wedding platform
-2026  ─●  Full Stack Developer at VITS Campus & GearHub, growing as a Full Stack Dev
+2026  ─●  Full Stack Developer at Gold Finchs Travels & GearHub, growing as a Full Stack Dev
 ```
 
 ---
